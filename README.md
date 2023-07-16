@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif.)]()
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Codedamn || Trader stock market</h3>
-<img align="right" alt="Coding" width="400" src=" [https://storage.googleapis.com/profile-superrare-prod/0x9f541aef30d8440f766d016d7af67b3f79d4189a/awakening%201.gif]">
+<img align="right" alt="Coding" width="400" src=" [https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif]">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-dom&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-dom" /> </p>
 
