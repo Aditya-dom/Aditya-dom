@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Aditya
 #### Learning AI/ML and  Trading
 ![Learning AI/ML and  Trading](https://github.com/Aditya-dom/Aditya-dom/blob/main/-999x-999.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-dom&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-dom" /> </p>
+
 
 I am currently working on Project which is Inspired by Aladdin® technologies by BlackRock
 
@@ -13,7 +15,7 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
    
 ## Skills and Experience
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://en.wikipedia.org/wiki/C_(programming_language))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='40'>](https://www.djangoproject.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flask.svg' alt='flask' height='40'>](https://flask.palletsprojects.com/en/2.3.x/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg' alt='tensorflow' height='40'>](https://www.tensorflow.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg' alt='pytorch' height='40'>](https://pytorch.org/)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://code.visualstudio.com/)  
 ##
 
 
@@ -30,10 +32,11 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 
 ## Connect with me 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Aditya-dom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@adityadom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/22476315/aditya-dom)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Aditya-dom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@adityadom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/22476315/aditya-dom)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aditya-kumar-bb4ab628a/)  
 
 ##
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Aditya-dom)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Aditya-dom/)
 
 
 
