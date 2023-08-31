@@ -15,7 +15,11 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
    
 ## Skills and Experience
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://en.wikipedia.org/wiki/C_(programming_language))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='40'>](https://www.djangoproject.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flask.svg' alt='flask' height='40'>](https://flask.palletsprojects.com/en/2.3.x/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg' alt='tensorflow' height='40'>](https://www.tensorflow.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg' alt='pytorch' height='40'>](https://pytorch.org/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://code.visualstudio.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://code.visualstudio.com/)
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>
+   
 ##
 
 
@@ -40,5 +44,8 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 ##
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Aditya-dom/)
 
+##
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/adityadom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityadom" /></a></p><br><br>
 
 
