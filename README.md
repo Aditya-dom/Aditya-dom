@@ -7,7 +7,7 @@
 I am currently working on Project which is Inspired by Aladdin® technologies by BlackRock
 
 
-- 🔭 I’m currently working on on solo ML project with using TensorFlow,PyTorch 
+- 🔭 I’m currently working on my solo ML project with using TensorFlow,PyTorch,Pandas
 - 🌱 I’m currently learning Quantitative trading analysis 
 - 👯 I’m looking to collaborate on with trading firms for deep learings 
 - 💬 Ask me about Investment , Trading (include commodities, Bonds,Index/Stocks), Coding/Programming 
@@ -19,6 +19,8 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'>
    
 ##
 
