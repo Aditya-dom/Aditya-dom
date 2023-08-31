@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Aditya
 #### Learning AI/ML and  Trading
-![Learning AI/ML and  Trading]()
+![Learning AI/ML and  Trading](https://github.com/Aditya-dom/Aditya-dom/blob/main/-999x-999.gif)
 
 I am currently working on Project which is Inspired by Aladdin® technologies by BlackRock
 
