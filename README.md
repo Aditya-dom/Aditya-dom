@@ -1,4 +1,4 @@
-### Hi there 👋, I am Aditya
+### Hi Dev 👋, I am Aditya
 #### Learning AI/ML and  Trading
 ![Learning AI/ML and  Trading](https://github.com/Aditya-dom/Aditya-dom/blob/main/-999x-999.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-dom&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-dom" /> </p>
