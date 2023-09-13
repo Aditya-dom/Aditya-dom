@@ -26,7 +26,7 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
    
 ##
 
-## <Trophies🏆>
+## < Trophies🏆>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aditya-dom)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -38,7 +38,7 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 
 
 
-## <Connect with me> 
+## < Connect with me > 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Aditya-dom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@adityadom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/22476315/aditya-dom)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aditya-kumar-bb4ab628a/)
