@@ -13,7 +13,7 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 - 💬 Ask me about Investment , Trading (include commodities, Bonds,Index/Stocks), Coding/Programming 
 - 📫 How to reach me: k.aditya.rech@gmail.com
    
-## <Skills, tools and Experience!> 
+## <Skills, tools and Experience!👩‍💻> 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://en.wikipedia.org/wiki/C_(programming_language))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='40'>](https://www.djangoproject.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flask.svg' alt='flask' height='40'>](https://flask.palletsprojects.com/en/2.3.x/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg' alt='tensorflow' height='40'>](https://www.tensorflow.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg' alt='pytorch' height='40'>](https://pytorch.org/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pandas.svg' alt='pandas' height='40'>](https://pandas.pydata.org/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://en.wikipedia.org/wiki/C%2B%2B)  
@@ -26,7 +26,7 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
    
 ##
 
-## < Trophies🏆>
+## <🏆Trophies🏆>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aditya-dom)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -38,10 +38,10 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 
 
 
-## < Connect with me > 
+## <✨Connect with me✨> 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Aditya-dom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@adityadom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/22476315/aditya-dom)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aditya-kumar-bb4ab628a/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Aditya_dom10)  
 
 
