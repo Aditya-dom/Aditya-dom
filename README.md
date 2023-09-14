@@ -28,7 +28,7 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 
 ## <🏆Trophies🏆>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aditya-dom)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aditya-dom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##
 
