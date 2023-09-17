@@ -13,7 +13,7 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 - 💬 Ask me about Investment , Trading (including commodities, Bonds,Index/Stocks,Hedging/Hedge funds), Coding/Programming, Machine learing and Deep learning 
 - 📫 How to reach me: domaditya10@gmail.com
    
-## <Skills, tools and Experience!👩‍💻> 
+## <👩‍💻 Skills, tools and Experience!👩‍💻> 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://en.wikipedia.org/wiki/C_(programming_language))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='40'>](https://www.djangoproject.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flask.svg' alt='flask' height='40'>](https://flask.palletsprojects.com/en/2.3.x/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg' alt='tensorflow' height='40'>](https://www.tensorflow.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg' alt='pytorch' height='40'>](https://pytorch.org/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pandas.svg' alt='pandas' height='40'>](https://pandas.pydata.org/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://en.wikipedia.org/wiki/C%2B%2B)  
