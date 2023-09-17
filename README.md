@@ -10,7 +10,7 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 - 🔭 I’m currently working on my solo ML project with using TensorFlow,PyTorch and Pandas
 - 🌱 I’m currently learning Quantitative trading analysis 
 - 👯 I’m looking to collaborate on with trading firms for deep learings 
-- 💬 Ask me about Investment , Trading (include commodities, Bonds,Index/Stocks), Coding/Programming 
+- 💬 Ask me about Investment , Trading (including commodities, Bonds,Index/Stocks,Hedging/Hedge funds), Coding/Programming, Machine learing and Deep learning 
 - 📫 How to reach me: domaditya10@gmail.com
    
 ## <Skills, tools and Experience!👩‍💻> 
