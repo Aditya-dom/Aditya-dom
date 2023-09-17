@@ -19,10 +19,13 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://en.wikipedia.org/wiki/C%2B%2B)  
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://en.wikipedia.org/wiki/JavaScript)  
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://code.visualstudio.com/)
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'>
-  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apache.svg' alt='apache' height='40'>](https://httpd.apache.org/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nginx.svg' alt='nginx' height='40'>](https://www.nginx.com/) 
+
    
 ##
 
