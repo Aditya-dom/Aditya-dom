@@ -1,5 +1,5 @@
-### < Hello Dev 👋, I am Aditya >
-## Passionate about Machine learning, Deep learning and Trading.
+## < Hello Dev 👋, I am Aditya >
+## < Passionate about Machine learning, Deep learning and Trading >
 <center><img src= "https://github.com/Aditya-dom/Aditya-dom/blob/main/-999x-999.gif" alt="my gif" max-width="550" height="290"></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-dom&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-dom" /> </p>
 
