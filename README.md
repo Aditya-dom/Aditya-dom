@@ -1,10 +1,12 @@
-## <center>  <Hello Dev 👋, I am Aditya> </center>
-## < Passionate about Machine learning, Deep learning and Trading >
-   <center><img src= "https://github.com/Aditya-dom/Aditya-dom/blob/main/-999x-999.gif" alt="my gif" max-width="550" height="290"></center>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-dom&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-dom" /> </p>
+##     <h1 align="center"> <Hello Dev 👋, I am Aditya></h1> 
+## <h2 align="center"><Passionate about Machine learning, Deep learning and Trading></h2>
+
+  <p align="center"><img src= "https://github.com/Aditya-dom/Aditya-dom/blob/main/-999x-999.gif" align="center" alt="my gif" max-width="550" height="290"></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aditya-dom&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-dom" /> </p>
 
 
-I am currently working on Project which is Inspired by Aladdin® technologies by BlackRock
+I am currently working on Project which is Inspired by Aladdin® technologies by BlackRock.
 
 
 - 🔭 I’m currently working on my solo ML project with using TensorFlow,PyTorch and Pandas.
