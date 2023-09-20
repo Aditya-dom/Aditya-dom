@@ -52,8 +52,7 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 
 ## 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aditya-dom&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aditya-dom&theme=dracula)](https://git.io/streak-stats)
 ##
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adityadom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityadom" /></a></p><br><br>
