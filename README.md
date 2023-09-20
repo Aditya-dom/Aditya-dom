@@ -1,5 +1,5 @@
 ##     <h1 align="center"> <Hello Dev 👋, I am Aditya></h1> 
-## <h2 align="center"><Passionate about Machine learning, Deep learning and Trading></h2>
+##  <h2 align="center"><Passionate about Machine learning, Deep learning and Trading></h2>
 
   <p align="center"><img src= "https://github.com/Aditya-dom/Aditya-dom/blob/main/-999x-999.gif" align="center" alt="my gif" max-width="550" height="290"></p>
 
