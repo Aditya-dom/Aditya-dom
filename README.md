@@ -51,8 +51,9 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Aditya_dom10)  
 
 
-##
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Aditya-dom/)
+## 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aditya-dom&theme=dark)](https://git.io/streak-stats)
 
 ##
 <h3 align="left">Support:</h3>
