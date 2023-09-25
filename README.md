@@ -31,12 +31,6 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
    
 ##
 
-## <🏆Trophies🏆>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aditya-dom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-##
-
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-dom&show_icons=true&theme=dracula)
 
 ##
@@ -50,9 +44,6 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Aditya_dom10)  
 
 
-## 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aditya-dom&theme=dracula)](https://git.io/streak-stats)
 ##
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adityadom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityadom" /></a></p><br><br>
