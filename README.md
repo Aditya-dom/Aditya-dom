@@ -26,7 +26,10 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://code.visualstudio.com/)
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apache.svg' alt='apache' height='40'>](https://httpd.apache.org/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nginx.svg' alt='nginx' height='40'>](https://www.nginx.com/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nginx.svg' alt='nginx' height='40'>](https://www.nginx.com/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg' alt='arduino' height='40'>](https://www.arduino.cc/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hugo.svg' alt='hugo' height='40'>](https://gohugo.io/) 
+
 
    
 ##
@@ -42,7 +45,7 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Aditya-dom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@adityadom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/22476315/aditya-dom)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Aditya_dom10)  
-
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' alt='hackerone' height='40'>](https://hackerone.com/olive_boy?type=user) 
 
 ##
 <h3 align="left">Support:</h3>
