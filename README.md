@@ -49,6 +49,6 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 
 ##
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/adityadom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityadom" /></a></p><br><br>
-
+If you want to support me Directly Collab on My NOT-common Project..
+Thank you
 
