@@ -27,7 +27,8 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apache.svg' alt='apache' height='40'>](https://httpd.apache.org/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nginx.svg' alt='nginx' height='40'>](https://www.nginx.com/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg' alt='arduino' height='40'>](https://www.arduino.cc/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg' alt='arduino' height='40'>](https://www.arduino.cc/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/raspberrypi.svg' alt='raspberrypi' height='40'>](https://en.wikipedia.org/wiki/Raspberry)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hugo.svg' alt='hugo' height='40'>](https://gohugo.io/) 
 
 
