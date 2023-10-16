@@ -54,6 +54,7 @@ I am currently working on Project which is Inspired by Aladdin® technologies by
 
 ##
 <h3 align="left">Support:</h3>
-If you want to support me Directly Collab on My NOT-common Project..
-Thank you
+If you want to support me Directly Collab on My NOT-common Project.
+
+## Thank you
 
