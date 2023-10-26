@@ -1,5 +1,5 @@
 ##     <h1 align="center"> <Hello Mate 👋, I am Aditya></h1> 
-##  <h2 align="center"><Passionate about Machine learning, Deep learning and Trading></h2>
+##  <h2 align="center"><Passionate about Deep learning and Trading></h2>
 
   <p align="center"><img src="https://github.com/Aditya-dom/Aditya-dom/blob/main/-chiye1026-future-car.gif" align="center" alt="my gif" max-width="400" height="400"></p>
 
@@ -9,7 +9,7 @@
 I am currently working on Project which is Inspired by Aladdin® technologies by BlackRock.
 
 
-- 🔭 I’m currently working on my solo ML project with using TensorFlow,PyTorch and Pandas.
+- 🔭 I’m currently working on my solo DL project with using TensorFlow,PyTorch and Pandas.
 - 🌱 I’m currently learning Quantitative trading analysis. 
 - 👯 I’m looking to collaborate on with trading firms for Quantitative tradings 
 - 💬 Ask me about Investment , Trading (including commodities, Bonds,Index/Stocks,Hedging/Hedge funds), Coding/Programming, Machine learing and Deep learning.
