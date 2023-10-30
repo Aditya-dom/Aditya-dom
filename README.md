@@ -1,7 +1,7 @@
 ##     <h1 align="center"> <Hello Mate 👋, I am Aditya></h1> 
 ##  <h2 align="center"> <Passionate about Deep learning & Trading> </h2>
 
-  <p align="center"><img src="https://github.com/Aditya-dom/Aditya-dom/blob/main/-chiye1026-future-car.gif" align="center" alt="my gif" max-width="400" height="400"></p>
+  <p align="center"><img src="https://github.com/Aditya-dom/Aditya-dom/blob/main/-chiye1026-future-car.gif" align="center" alt="my gif" max-width="380" height="380"></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aditya-dom&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-dom" /> </p>
 
