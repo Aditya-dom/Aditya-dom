@@ -6,7 +6,7 @@ Probably the reason you're here. I would highlight:
 
 2.[**Virtual try on of clothes**](https://github.com/Aditya-dom/Try-on-of-clothes-using-CNN-RNN):using convolutional neural network & recurrent neural network. [![GitHub Repo stars](https://img.shields.io/github/stars/Aditya-dom/Try-on-of-clothes-using-CNN-RNN?style=social)](https://github.com/Aditya-dom/Try-on-of-clothes-using-CNN-RNN)
 
-3.[**Breast cancer predictions using multiple approches**](https://github.com/Aditya-dom/Breast-cancer-detection-using-LS-MaskRCNN-and-DL):like image processing, Classifier,etc. [![GitHub Repo stars](https://img.shields.io/github/stars/Aditya-dom/Breast-cancer-detection-using-LS-MaskRCNN-and-DL?style=social)](https://github.com/Aditya-dom/Breast-cancer-detection-using-LS-MaskRCNN-and-DL)
+3.[**Breast cancer predictions using multiple approaches**](https://github.com/Aditya-dom/Breast-cancer-detection-using-LS-MaskRCNN-and-DL):like image processing, Classifier,etc. [![GitHub Repo stars](https://img.shields.io/github/stars/Aditya-dom/Breast-cancer-detection-using-LS-MaskRCNN-and-DL?style=social)](https://github.com/Aditya-dom/Breast-cancer-detection-using-LS-MaskRCNN-and-DL)
 
 4.[**Reinforcement Learning based on Stock Trading**](https://github.com/Aditya-dom/Deep-Reinforcement-learning-stock-trading):using DRQN-model.[![GitHub Repo stars](https://img.shields.io/github/stars/Aditya-dom/Deep-Reinforcement-learning-stock-trading?style=social)](https://github.com/Aditya-dom/Deep-Reinforcement-learning-stock-trading)
 
