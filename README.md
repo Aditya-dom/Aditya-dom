@@ -8,7 +8,7 @@ Probably the reason you're here. I would highlight:
 
 3.[**Breast cancer predictions using multiple approches**](https://github.com/Aditya-dom/Breast-cancer-detection-using-LS-MaskRCNN-and-DL):like image processing, Classifier,etc. [![GitHub Repo stars](https://img.shields.io/github/stars/Aditya-dom/Breast-cancer-detection-using-LS-MaskRCNN-and-DL?style=social)](https://github.com/Aditya-dom/Breast-cancer-detection-using-LS-MaskRCNN-and-DL)
 
-4.[**Reinforcement Learning based on Stock Trading with multiple backends**](https://github.com/Aditya-dom/Deep-Reinforcement-learning-stock-trading):using the DRQN model. [![GitHub Repo stars](https://img.shields.io/github/stars/Aditya-dom/Deep-Reinforcement-learning-stock-trading?style=social)](https://github.com/Aditya-dom/Deep-Reinforcement-learning-stock-trading)
+4.[**Reinforcement Learning based on Stock Trading with multiple backends**](https://github.com/Aditya-dom/Deep-Reinforcement-learning-stock-trading):using DRQN model. [![GitHub Repo stars](https://img.shields.io/github/stars/Aditya-dom/Deep-Reinforcement-learning-stock-trading?style=social)](https://github.com/Aditya-dom/Deep-Reinforcement-learning-stock-trading)
 
 **Other links:**
 
