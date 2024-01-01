@@ -10,6 +10,8 @@ Probably the reason you're here. I would highlight:
 
 4.[**Reinforcement Learning based on Stock Trading**](https://github.com/Aditya-dom/Deep-Reinforcement-learning-stock-trading): using DRQN-model.[![GitHub Repo stars](https://img.shields.io/github/stars/Aditya-dom/Deep-Reinforcement-learning-stock-trading?style=social)](https://github.com/Aditya-dom/Deep-Reinforcement-learning-stock-trading)
 
+**Aditya's Ravage ecosystem:**
+
 **Other links:**
 
 - Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/Aditya_dom10?style=social)](https://twitter.com/Aditya_dom10)
