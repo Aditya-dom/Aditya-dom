@@ -5,6 +5,8 @@ Probably the reason you're here. I would highlight:
 
 1.[**Moonwalk-back**](https://github.com/Aditya-dom/moonwalk-back): Penetration Testing by leaving zero traces on system logs.[![GitHub Repo stars](https://img.shields.io/github/stars/Aditya-dom/moonwalk-back?style=social)](https://github.com/Aditya-dom/moonwalk-back)
 
+2.[**Rusty-arsenal**](https://github.com/Aditya-dom/Rusty-arsenal): Post-Exploitation Techniques & Process Injection using Rust.[![GitHub Repo stars](https://img.shields.io/github/stars/Aditya-dom/Rusty-arsenal?style=social)](https://github.com/Aditya-dom/Rusty-arsenal)
+
 ##
 
 **Aditya's ML ecosystem:**
