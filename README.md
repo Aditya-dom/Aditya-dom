@@ -27,4 +27,5 @@ Probably the reason you're here. I would highlight:
 - Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/Aditya_dom10?style=social)](https://twitter.com/Aditya_dom10)
 - Personal website: [Aditya-dom](https://aditya-dom.github.io/ak/)
 
-**Me:** currently doing BTech at IET Lucknow. And working on my Projects.
+**Me:** currently doing BTech at IET Lucknow. And working on my Projects and Trading Intern at Density-Exchange.
+        
