@@ -1,10 +1,5 @@
 **Probably the reason you're here. I would highlight:**
-##
-
-:- 🎧 Currently vibing to this awesome track -:
---:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cmp0d8tkqc62rbkmktv4nk65e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=cmp0d8tkqc62rbkmktv4nk65e&redirect=true)
-##
+#
 **Aditya's Ravage ecosystem:**
 
 1.[**Moonwalk-back**](https://github.com/Aditya-dom/moonwalk-back): Penetration Testing by leaving zero traces on system logs.[![GitHub Repo stars](https://img.shields.io/github/stars/Aditya-dom/moonwalk-back?style=social)](https://github.com/Aditya-dom/moonwalk-back)
@@ -33,5 +28,7 @@
 
 **Me:** currently doing BTech at [**IET Lucknow**](https://www.ietlucknow.ac.in), working on my own side Projects and Trading Intern at [**@Density.Exchange**](https://density.exchange).
 
-
+:- 🎧 Currently vibing to this awesome track -:
+--:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cmp0d8tkqc62rbkmktv4nk65e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=cmp0d8tkqc62rbkmktv4nk65e&redirect=true)
 
