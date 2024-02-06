@@ -28,4 +28,12 @@ Probably the reason you're here. I would highlight:
 - Personal website: [Aditya-dom](https://aditya-dom.github.io/ak/)
 
 **Me:** currently doing BTech at IET Lucknow. And working on my Projects and Trading Intern at Density-Exchange.
+
+#
+
+🎧 Currently listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jhawki2005&redirect=true)
+
+
         
