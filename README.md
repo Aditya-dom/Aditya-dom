@@ -33,7 +33,4 @@ Probably the reason you're here. I would highlight:
 
 🎧 Currently listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jhawki2005&redirect=true)
-
-
-        
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cmp0d8tkqc62rbkmktv4nk65e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=cmp0d8tkqc62rbkmktv4nk65e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=cmp0d8tkqc62rbkmktv4nk65e&redirect=true)
