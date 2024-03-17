@@ -27,6 +27,9 @@
 - Personal website: [Aditya-dom](https://aditya-dom.github.io/ak/)
 
 **Me:** currently doing BTech at [**IET Lucknow**](https://www.ietlucknow.ac.in), working on my own side Projects and Trading Intern at [**@Density.Exchange**](https://density.exchange).
+
+
+[![matrix](https://img.shields.io/badge/matrix-@arawn.1:matrix.org-141321?labelColor=343341)](https://matrix.to/#/@arawn.1:matrix.org)
 #
 :- 🎧 Currently vibing to this awesome track -:
 --:
