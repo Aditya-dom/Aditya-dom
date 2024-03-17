@@ -23,13 +23,13 @@
 
 **Other links:**
 
-- Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/Aditya_dom10?style=social)](https://twitter.com/Aditya_dom10)
-- Personal website: [Aditya-dom](https://aditya-dom.github.io/ak/)
+- [![matrix](https://img.shields.io/badge/matrix-@arawn.1:matrix.org-141321?labelColor=343341)](https://matrix.to/#/@arawn.1:matrix.org)
+- [![Personal Website](https://img.shields.io/badge/Personl%20Website-Arawn.com-141321?labelColor=343341)](https://aditya-dom.github.io/ak/)
 
 **Me:** currently doing BTech at [**IET Lucknow**](https://www.ietlucknow.ac.in), working on my own side Projects and Trading Intern at [**@Density.Exchange**](https://density.exchange).
 
 
-[![matrix](https://img.shields.io/badge/matrix-@arawn.1:matrix.org-141321?labelColor=343341)](https://matrix.to/#/@arawn.1:matrix.org)
+
 #
 :- 🎧 Currently vibing to this awesome track -:
 --:
