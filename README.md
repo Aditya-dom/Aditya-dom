@@ -23,7 +23,7 @@
 
 **Other links:**
 
-- [![Personal Website](https://img.shields.io/badge/Personl%20Website-Arawn.com-141321?labelColor=343341)](https://aditya-dom.github.io/ak/)
+- [![Personal Website](https://img.shields.io/badge/Personl%20Website-Arawn.live-141321?labelColor=343341)](https://arawn.live)
 - [![matrix](https://img.shields.io/badge/matrix-@arawn.1:matrix.org-141321?labelColor=343341)](https://matrix.to/#/@arawn.1:matrix.org)
 
 **Me:** currently doing BTech at [**IET Lucknow**](https://www.ietlucknow.ac.in), working on my own side Projects and Algorithmic Trading Intern at [**@Density.Exchange**](https://density.exchange).
