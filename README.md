@@ -26,7 +26,7 @@
 - [![Personal Website](https://img.shields.io/badge/Personl%20Website-Arawn.live-141321?labelColor=343341)](https://arawn.live)
 - [![matrix](https://img.shields.io/badge/matrix-@arawn.1:matrix.org-141321?labelColor=343341)](https://matrix.to/#/@arawn.1:matrix.org)
 
-**Me:** currently doing BTech at [**IET Lucknow**](https://www.ietlucknow.ac.in), working on my own side Projects and  Quantitative researcher and trader at [Vally town](https://valleytowncapital.com/) and MLE at [Finzie](https://www.getfinzie.com/).
+**Me:** currently doing BTech at [**IET Lucknow**](https://www.ietlucknow.ac.in), working on my own side Projects and Quantitative researcher and trader at [**Vally town**](https://valleytowncapital.com/) and MLE at [**Finzie**](https://www.getfinzie.com/).
 - Previously interning at [**@Density.Exchange**](https://density.exchange) as Algorithmic Trader, Quantitative researcher and trader at [**Refonte Infini**](https://www.refonteinfini.com/) & Machine learning and Data Scientist intern at [**Afame technology**]()
 ***
 
