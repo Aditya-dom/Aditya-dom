@@ -30,14 +30,5 @@
 - Previously interning at [**@Density.Exchange**](https://density.exchange) as Algorithmic Trader, Quantitative researcher and trader at [**Refonte Infini**](https://www.refonteinfini.com/) & Machine learning and Data Scientist intern at [**Afame technology**]()
 ***
 
-## Star History
-
-<a href="https://star-history.com/#Aditya-dom/moonwalk-back&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Aditya-dom/moonwalk-back&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Aditya-dom/moonwalk-back&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Aditya-dom/moonwalk-back&type=Date" />
- </picture>
-</a>
 
 
