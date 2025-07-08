@@ -27,7 +27,7 @@
 #### **Other links:**
 
 - [![Personal Website](https://img.shields.io/badge/Personl%20Website-Arawn.tech-141321?labelColor=343341)](https://arawn.tech)
-- [![Twitter](https://img.shields.io/badge/Twitter-@arawn_10-141321?labelColor=343341&logo=twitter&logoColor=white)](https://x.com/Aditya_dom10)
+- [![Twitter](https://img.shields.io/badge/Twitter-@arawn_10-141321?labelColor=343341&logo=twitter&logoColor=white)](https://x.com/arawn_10)
 - [![matrix](https://img.shields.io/badge/matrix-@arawn.1:matrix.org-141321?labelColor=343341)](https://matrix.to/#/@arawn.1:matrix.org)
 
 **Me:** currently doing BTech at [**IET Lucknow**](https://www.ietlucknow.ac.in), working on my own side Projects
