@@ -20,12 +20,9 @@
 
 #### **Other links:**
 
-- [![Personal Website](https://img.shields.io/badge/Personl%20Website-Arawn.capital-141321?labelColor=343341)](https://arawn.capital)
-- [![Twitter](https://img.shields.io/badge/Twitter-@arawn_10-141321?labelColor=343341&logo=twitter&logoColor=white)](https://x.com/arawn_10)
+- Personal website: [arawn.capital](https://arawn.capital)
+- Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/arawn_10?style=social)](https://twitter.com/arawn_10)
 - [![matrix](https://img.shields.io/badge/matrix-@arawn.1:matrix.org-141321?labelColor=343341)](https://matrix.to/#/@arawn.1:matrix.org)
 
 **Me:** currently doing BTech at [**IET Lucknow**](https://www.ietlucknow.ac.in), working on my own side Projects
 ***
-
-
-
